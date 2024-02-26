@@ -15,3 +15,21 @@ body {
     background-image: url("https://images.unsplash.com/photo-1553984840-b8cbc34f5215");
     background-size: cover;
 }
+
+.caixa-maior {
+  background: #000000;
+  opacity: 0.8;
+  border-radius: 25px;
+  padding: 20px;
+}
+
+.input-cidade {
+  border: none;
+  outline: none;
+  padding: 10px;
+  border-radius: 25px;
+  font-size: 20px;
+  background: #7c7c7c2b;
+  color: #ffffff;
+  width: calc(100% - 100px);
+}
