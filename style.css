@@ -28,8 +28,25 @@ body {
   outline: none;
   padding: 10px;
   border-radius: 25px;
-  font-size: 20px;
+  font-size: 10px;
   background: #7c7c7c2b;
   color: #ffffff;
-  width: calc(100% - 100px);
+  width: calc(100% - 70px);
+}
+
+.botao-buscar {
+  border: none;
+  outline: none;
+  padding: 10px;
+  border: 50px;
+  background-color: #7c7c7c2b;
+  cursor: pointer;
+  float: right;
+  
+  
+}
+
+.img-buscar {
+  width: 20px;
+  
 }
