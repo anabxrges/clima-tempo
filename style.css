@@ -70,3 +70,13 @@ body {
     width: 22px;
     height: 22px;
 }
+
+.cidade {
+    font-weight: 300;
+}
+
+.temp {
+    font-size: 20px;
+    color: white;
+    margin-top: 20px;
+}
