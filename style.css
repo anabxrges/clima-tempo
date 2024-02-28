@@ -82,3 +82,9 @@ body {
     color: white;
     margin-top: 20px;
 }
+    .texto-previsao {
+      text-transform: capitalize;
+      color: white;
+      padding: 20px;
+    }
+
