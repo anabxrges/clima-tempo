@@ -34,6 +34,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-top: 20px;
 }
 
 .search {
@@ -73,6 +74,7 @@ body {
 
 .cidade {
     font-weight: 300;
+    margin-top: 10px;
 }
 
 .temp {
